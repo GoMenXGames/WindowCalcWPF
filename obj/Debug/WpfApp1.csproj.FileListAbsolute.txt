@@ -1,0 +1,15 @@
+C:\Users\GoManoYuid\source\repos\WpfApp1\bin\Debug\WindowCalcWPFCSharp.exe.config
+C:\Users\GoManoYuid\source\repos\WpfApp1\bin\Debug\WindowCalcWPFCSharp.exe
+C:\Users\GoManoYuid\source\repos\WpfApp1\bin\Debug\WindowCalcWPFCSharp.pdb
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\App.g.cs
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WindowCalcWPFCSharp_MarkupCompile.cache
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WindowCalcWPFCSharp_MarkupCompile.lref
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WindowCalcWPFCSharp.g.resources
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WindowCalc.Properties.Resources.resources
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WindowCalcWPFCSharp.exe
+C:\Users\GoManoYuid\source\repos\WpfApp1\obj\Debug\WindowCalcWPFCSharp.pdb
